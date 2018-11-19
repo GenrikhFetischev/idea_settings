@@ -72,7 +72,13 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ReformatWithPrettierAction" is_action="true" action_type="1" position="5">
+    <group value="Tool_External Tools_prettier" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RenameElement" is_action="true" action_type="1" position="6">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />

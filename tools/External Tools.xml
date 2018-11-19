@@ -1,9 +1,9 @@
 <toolSet name="External Tools">
-  <tool name="prettier" description="prettier" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="prettier" description="prettier" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$Projectpath$/node_modules/prettir/bin" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$Projectpath$" />
+      <option name="COMMAND" value="$ProjectFileDir$/node_modules/.bin/prettier" />
+      <option name="PARAMETERS" value="--write $FilePathRelativeToProjectRoot$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
