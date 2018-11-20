@@ -42,37 +42,37 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="NewFile" is_action="true" action_type="1" position="0">
+    <group value="Tool_External Tools_prettier" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="LocalHistory.ShowHistory" is_action="true" action_type="1" position="1">
+    <group value="SplitVertically" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ActivateTerminalToolWindow" is_action="true" action_type="1" position="2">
+    <group value="NewFile" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="SplitVertically" is_action="true" action_type="1" position="3">
+    <group value="LocalHistory.ShowHistory" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="FindInPath" is_action="true" action_type="1" position="4">
+    <group value="ActivateTerminalToolWindow" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Tool_External Tools_prettier" is_action="true" action_type="1" position="5">
+    <group value="FindInPath" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
