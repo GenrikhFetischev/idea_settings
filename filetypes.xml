@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="cpuBound" type="JavaScript" />
+      <mapping pattern="scene" type="PLAIN_TEXT" />
       <mapping pattern="MultipleCameraController" type="TypeScript" />
       <mapping pattern="CameraConsumer" type="TypeScript JSX" />
     </extensionMap>
