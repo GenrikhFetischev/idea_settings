@@ -14,7 +14,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="rrc" value="import React, { Component } from 'react';&#10;import { connect } from 'react-redux';&#10;   &#10;class $componentName$ extends Component {&#10;    render() {&#10;        return (&#10;            &lt;div&gt;&#10;                $END$&#10;            &lt;/div&gt;&#10;        );&#10;    }&#10;}&#10; &#10;function mapStateToProps(state) {&#10;    return {&#10;    &#10;    };&#10;}   &#10;    &#10;export default connect(&#10;    mapStateToProps,&#10;)($componentName$);&#10;" description="Creates a React component class connected to redux" toReformat="true" toShortenFQNames="true">
+  <template name="rrc" value="import React, { Component } from 'react';&#10;import { connect } from 'react-redux';&#10;   &#10;class $componentName$ extends Component {&#10;    render() {&#10;        return (&#10;            &lt;div&gt;&#10;                $END$&#10;            &lt;/div&gt;&#10;        );&#10;    }&#10;}&#10; &#10;function mapStateToProps(state) {&#10;    return {&#10;    &#10;    };&#10;}   &#10;    &#10;export default connect(&#10;    mapStateToProps,&#10;)($componentName$);&#10;" description="Creates a React component class connected to redux" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="componentName" expression="" defaultValue="&quot;MyComponent&quot;" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
