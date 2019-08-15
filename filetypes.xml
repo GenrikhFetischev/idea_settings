@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="cpuBound" type="JavaScript" />
+      <mapping pattern="root-action-mapper" type="PLAIN_TEXT" />
       <mapping pattern="ts-loader" type="PLAIN_TEXT" />
       <mapping pattern="scene" type="PLAIN_TEXT" />
       <mapping ext="gwcc" type="PLAIN_TEXT" />
