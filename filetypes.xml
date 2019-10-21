@@ -7,13 +7,13 @@
       <mapping pattern=".dockerignore" type="IgnoreLang file" />
       <mapping pattern="cpuBound" type="JavaScript" />
       <mapping pattern="root-action-mapper" type="PLAIN_TEXT" />
-      <mapping pattern="ts-loader" type="PLAIN_TEXT" />
       <mapping pattern="scene" type="PLAIN_TEXT" />
+      <mapping pattern="ts-loader" type="PLAIN_TEXT" />
       <mapping ext="gwcc" type="PLAIN_TEXT" />
       <mapping ext="wcc" type="PLAIN_TEXT" />
       <mapping ext="ts\" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="MultipleCameraController" type="TypeScript" />
       <mapping pattern="CameraConsumer" type="TypeScript JSX" />
