@@ -1,11 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group seperator="true" action_type="-1" position="4">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Stop" is_action="true" action_type="-1" position="3">
       <path value="root" />
       <path value="Touch Bar" />
@@ -24,13 +18,13 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Rust.Build" is_action="true" action_type="-1" position="0">
+    <group value="CompileDirty" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ReformatWithPrettierAction" is_action="true" action_type="1" position="0">
+    <group value="Tool_External Tools_prettier" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
@@ -66,6 +60,11 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="ReformatWithPrettierAction" icon="$USER_HOME$/Desktop/depositphotos_54081723-stock-photo-beautiful-nature-landscape.jpg" />
+    <group value="ViewSource" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
   </component>
 </application>
