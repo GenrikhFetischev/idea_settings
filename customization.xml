@@ -6,65 +6,72 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="3">
+    <group value="Stop" is_action="true" action_type="-1" position="3">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Stop" is_action="true" action_type="-1" position="2">
+    <group value="RunnerActionsTouchbar" is_group="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RunnerActionsTouchbar" is_group="true" action_type="-1" position="1">
+    <group value="RunConfiguration" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RunConfiguration" is_action="true" action_type="-1" position="0">
+    <group value="Rust.Build" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ActivateTerminalToolWindow" is_action="true" action_type="1" position="0">
+    <group value="ReformatWithPrettierAction" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="SplitVertically" is_action="true" action_type="1" position="1">
+    <group value="Tool_External Tools_prettier" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RenameElement" is_action="true" action_type="1" position="2">
+    <group value="SplitVertically" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="NewFile" is_action="true" action_type="1" position="3">
+    <group value="LocalHistory.ShowHistory" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="LocalHistory.ShowHistory" is_action="true" action_type="1" position="4">
+    <group value="RenameElement" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="GotoImplementation" is_action="true" action_type="1" position="5">
+    <group value="NewFile" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ActivateTerminalToolWindow" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="ReformatWithPrettierAction" icon="$USER_HOME$/Desktop/depositphotos_54081723-stock-photo-beautiful-nature-landscape.jpg" />
   </component>
 </application>
