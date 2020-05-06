@@ -12,8 +12,9 @@
       <mapping ext="gwcc" type="PLAIN_TEXT" />
       <mapping ext="wcc" type="PLAIN_TEXT" />
       <mapping ext="ts\" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="MultipleCameraController" type="TypeScript" />
       <mapping pattern="CameraConsumer" type="TypeScript JSX" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
