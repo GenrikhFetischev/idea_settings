@@ -3,12 +3,17 @@
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
   <action id="NewScratchFile" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift meta alt p" />
     <keyboard-shortcut first-keystroke="shift space" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta alt 2" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="Tool_External Tools_prettier">
     <keyboard-shortcut first-keystroke="shift meta p" />
