@@ -1,0 +1,16 @@
+<keymap version="1" name="macOS copy 1" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="NewScratchFile" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="TerminalSplitActionBase$Vertical">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+</keymap>
