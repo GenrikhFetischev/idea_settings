@@ -3,10 +3,15 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="Console.TableResult.SelectRow" />
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
   <action id="NewScratchFile" />
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift meta alt p" />
+    <keyboard-shortcut first-keystroke="shift space" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
