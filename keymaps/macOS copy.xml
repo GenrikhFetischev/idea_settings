@@ -17,7 +17,9 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
-  <action id="NewScratchFile" />
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift ctrl meta n" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl j" />
     <mouse-shortcut keystroke="control button2" />
