@@ -30,5 +30,6 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="f1" />
+    <keyboard-shortcut first-keystroke="alt v" />
   </action>
 </keymap>
