@@ -5,6 +5,7 @@
         <option name="suppressed">
           <set>
             <option value="events are represented" />
+            <option value="server is allowed" />
           </set>
         </option>
       </SuppressingContext>
