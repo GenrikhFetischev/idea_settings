@@ -12,6 +12,7 @@
             <option value="events are represented" />
             <option value="server is allowed" />
             <option value="message is being sent" />
+            <option value="it is expected that" />
           </set>
         </option>
       </SuppressingContext>
