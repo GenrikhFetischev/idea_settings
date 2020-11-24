@@ -4,15 +4,32 @@
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="Console.TableResult.SelectRow" />
+  <action id="FileChooser.LightEditGotoOpenedFile">
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
+  <action id="GuiDesigner.QuickJavadoc">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="meta h" />
+  </action>
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
-  <action id="NewScratchFile" />
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift ctrl meta n" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift meta alt p" />
     <keyboard-shortcut first-keystroke="shift space" />
   </action>
   <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="f1" />
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
 </keymap>

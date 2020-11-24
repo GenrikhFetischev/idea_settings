@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="helm-chart" type="PLAIN_TEXT" />
+      <mapping pattern="utils" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
