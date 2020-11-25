@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="Console.TableResult.SelectRow" />
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="meta h" />
+  </action>
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
