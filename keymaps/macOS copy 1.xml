@@ -4,6 +4,12 @@
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="Console.TableResult.SelectRow" />
+  <action id="IlluminatedCloud.SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="meta h" />
+  </action>
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
@@ -12,6 +18,7 @@
     <keyboard-shortcut first-keystroke="shift meta alt p" />
     <keyboard-shortcut first-keystroke="shift space" />
   </action>
+  <action id="SaveAll" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>

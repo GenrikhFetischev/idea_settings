@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="helm-chart" type="PLAIN_TEXT" />
       <mapping pattern="utils" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
