@@ -25,4 +25,8 @@
   <action id="TerminalSplitActionBase$Vertical">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="UsageGrouping.Directory">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
 </keymap>
