@@ -1,11 +1,16 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern=".huskyrc" type="DTD" />
       <mapping pattern=".postcssrc" type="JSON" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="helm-chart" type="PLAIN_TEXT" />
       <mapping pattern="utils" type="PLAIN_TEXT" />
       <mapping pattern=".cargo-lock" type="PLAIN_TEXT" />
       <mapping pattern="backend3d-ws" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
