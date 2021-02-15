@@ -2763,6 +2763,16 @@
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
                     </value>
                   </entry>
+                  <entry key="aws.ecs.cloud-debug">
+                    <value>
+                      <FeaturePluginData displayName="AWS ECS Service Cloud Debug (Beta)" pluginName="AWS Toolkit" pluginId="aws.toolkit" />
+                    </value>
+                  </entry>
+                  <entry key="aws.lambda">
+                    <value>
+                      <FeaturePluginData displayName="AWS Lambda" pluginName="AWS Toolkit" pluginId="aws.toolkit" />
+                    </value>
+                  </entry>
                   <entry key="com.microsoft.intellij.run.configuration.WebAppConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Azure Web App" pluginName="Azure Toolkit for IntelliJ" pluginId="com.microsoft.tooling.msservices.intellij.azure" />
