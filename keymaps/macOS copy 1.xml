@@ -2,6 +2,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
+    <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
   <action id="Console.TableResult.SelectRow" />
   <action id="EditorSelectWord">
