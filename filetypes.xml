@@ -9,6 +9,7 @@
       <mapping pattern="utils" type="PLAIN_TEXT" />
       <mapping pattern=".cargo-lock" type="PLAIN_TEXT" />
       <mapping pattern="backend3d-ws" type="PLAIN_TEXT" />
+      <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
       <mapping ext="yamlt" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
