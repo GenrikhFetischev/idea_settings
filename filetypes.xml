@@ -1,8 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="bl" type="AUTO_DETECTED" />
-      <mapping pattern="trip" type="AUTO_DETECTED" />
+      <mapping pattern=".huskyrc" type="DTD" />
       <mapping pattern=".postcssrc" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -10,6 +9,11 @@
       <mapping pattern="utils" type="PLAIN_TEXT" />
       <mapping pattern=".cargo-lock" type="PLAIN_TEXT" />
       <mapping pattern="backend3d-ws" type="PLAIN_TEXT" />
+      <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
+      <mapping ext="yamlt" type="YAML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
     </extensionMap>
   </component>
 </application>
