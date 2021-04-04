@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".huskyrc" type="DTD" />
+      <mapping pattern=".prettierignore" type="IgnoreLang file" />
       <mapping pattern=".postcssrc" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
