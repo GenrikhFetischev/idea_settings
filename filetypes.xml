@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="tests" type="AUTO_DETECTED" />
       <mapping pattern=".huskyrc" type="DTD" />
       <mapping pattern=".prettierignore" type="IgnoreLang file" />
       <mapping pattern=".postcssrc" type="JSON" />
@@ -12,6 +13,7 @@
       <mapping pattern=".cargo-lock" type="PLAIN_TEXT" />
       <mapping pattern="backend3d-ws" type="PLAIN_TEXT" />
       <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
+      <mapping ext="adf" type="PLAIN_TEXT" />
       <mapping ext="yamlt" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
