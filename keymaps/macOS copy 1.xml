@@ -21,7 +21,9 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
-  <action id="NewScratchFile" />
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift meta alt n" />
+  </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="meta alt back_slash" />
