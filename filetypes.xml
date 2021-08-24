@@ -6,16 +6,16 @@
       <mapping pattern="deploy-utils" type="AUTO_DETECTED" />
       <mapping pattern=".huskyrc" type="DTD" />
       <mapping pattern=".prettierignore" type="IgnoreLang file" />
-      <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern=".auto-changelog" type="JSON" />
+      <mapping pattern=".postcssrc" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="helm-chart" type="PLAIN_TEXT" />
+      <mapping pattern="backend3d-ws" type="PLAIN_TEXT" />
       <mapping pattern="utils" type="PLAIN_TEXT" />
       <mapping pattern=".cargo-lock" type="PLAIN_TEXT" />
-      <mapping pattern="backend3d-ws" type="PLAIN_TEXT" />
       <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
+      <mapping pattern="helm-chart" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="adf" type="PLAIN_TEXT" />
       <mapping ext="yamlt" type="YAML" />
