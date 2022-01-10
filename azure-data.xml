@@ -8,7 +8,7 @@
         <entry key="function_core_tools_path" />
         <entry key="password_save_type" />
         <entry key="telemetry.telemetry_allow_telemetry" value="true" />
-        <entry key="telemetry.telemetry_plugin_version" value="3.59.0-2021.2" />
+        <entry key="telemetry.telemetry_plugin_version" value="3.60.1-2021.2" />
         <entry key="telemetry_installation_id" value="ffcbe2c9e36a1d232b5cca8acacc65bd0ec8072e718c33fd06c8c2c91f1e13d3" />
       </map>
     </option>
