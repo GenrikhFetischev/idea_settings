@@ -2,7 +2,7 @@
   <component name="GraziConfig">
     <option name="userDisabledRules">
       <set>
-        <option value="HAVE_PART_AGREEMENT" />
+        <option value="LanguageTool.EN.HAVE_PART_AGREEMENT" />
       </set>
     </option>
     <option name="suppressingContext">
@@ -10,12 +10,21 @@
         <option name="suppressed">
           <set>
             <option value="events are represented" />
-            <option value="server is allowed" />
-            <option value="message is being sent" />
             <option value="it is expected that" />
+            <option value="message is being sent" />
+            <option value="server is allowed" />
           </set>
         </option>
       </SuppressingContext>
+    </option>
+    <option name="detectionContext">
+      <State>
+        <option name="disabled">
+          <set>
+            <option value="RUSSIAN" />
+          </set>
+        </option>
+      </State>
     </option>
   </component>
 </application>
