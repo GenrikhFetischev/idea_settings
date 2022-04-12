@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="tests" type="AUTO_DETECTED" />
       <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
+      <mapping pattern="personal_staff" type="AUTO_DETECTED" />
       <mapping pattern="deploy-utils" type="AUTO_DETECTED" />
       <mapping pattern=".huskyrc" type="DTD" />
       <mapping pattern=".prettierignore" type="IgnoreLang file" />
