@@ -10,8 +10,9 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="AwsSettingsPanel" value="false" />
         <entry key="Memory" value="true" />
-        <entry key="TypeScriptInfo" value="false" />
+        <entry key="webDeployment.default.server.widget" value="false" />
       </map>
     </option>
   </component>
