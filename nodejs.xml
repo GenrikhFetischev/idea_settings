@@ -1,13 +1,31 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
-    <local-interpreter path="/var/folders/lx/n5r27kz50h7frl561110yk_0gpmq08/T/fnm_multishell_73023_1623832168273/bin/node" />
-    <local-interpreter path="/usr/local/Cellar/node/17.3.0/bin/node">
-      <version-cache version="17.3.0" last-modified="1641810275458" />
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="18.2.0" last-modified="1653034876366" />
     </local-interpreter>
-    <local-interpreter path="/usr/local/bin/node" />
-    <local-interpreter path="/usr/local/Cellar/node/16.1.0/bin/node" />
-    <local-interpreter path="/usr/local/Cellar/node/15.13.0/bin/node" />
-    <local-interpreter path="/usr/local/Cellar/node/15.5.0/bin/node" />
-    <local-interpreter path="/var/folders/lx/n5r27kz50h7frl561110yk_0gpmq08/T/fnm_multishell_93718_1641803990899/bin/node" />
+    <local-interpreter path="/var/folders/lx/n5r27kz50h7frl561110yk_0gpmq08/T/fnm_multishell_1845_1652945665271/bin/node">
+      <version-cache version="18.2.0" last-modified="1652793710000" />
+    </local-interpreter>
+    <local-interpreter path="/var/folders/lx/n5r27kz50h7frl561110yk_0gpmq08/T/fnm_multishell_73023_1623832168273/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/var/folders/lx/n5r27kz50h7frl561110yk_0gpmq08/T/fnm_multishell_93718_1641803990899/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/18.2.0/bin/node">
+      <version-cache version="18.2.0" last-modified="1653034876366" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/17.3.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/16.1.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/15.13.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/15.5.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
   </component>
 </application>
