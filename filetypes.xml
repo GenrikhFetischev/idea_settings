@@ -16,6 +16,7 @@
       <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
       <mapping pattern="helm-chart" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="translations" type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
       <mapping ext="adf" type="PLAIN_TEXT" />
