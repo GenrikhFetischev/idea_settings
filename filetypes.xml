@@ -6,13 +6,13 @@
       <mapping pattern="personal_staff" type="AUTO_DETECTED" />
       <mapping pattern="deploy-utils" type="AUTO_DETECTED" />
       <mapping pattern="jobs" type="AUTO_DETECTED" />
+      <mapping pattern="post-start" type="AUTO_DETECTED" />
+      <mapping pattern="set-up-routing" type="AUTO_DETECTED" />
+      <mapping pattern="pre-stop" type="AUTO_DETECTED" />
       <mapping pattern=".huskyrc" type="DTD" />
       <mapping pattern=".prettierignore" type="IgnoreLang file" />
       <mapping pattern=".auto-changelog" type="JSON" />
       <mapping pattern=".postcssrc" type="JSON" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="backend3d-ws" type="PLAIN_TEXT" />
       <mapping pattern="utils" type="PLAIN_TEXT" />
       <mapping pattern=".cargo-lock" type="PLAIN_TEXT" />
@@ -28,8 +28,14 @@
       <mapping ext="flat" type="PLAIN_TEXT" />
       <mapping ext="yamlt" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
+      <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
