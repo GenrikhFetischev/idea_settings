@@ -1,7 +1,10 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
     <local-interpreter path="/var/folders/lx/n5r27kz50h7frl561110yk_0gpmq08/T/fnm_multishell_1695_1652945664727/bin/node">
-      <version-cache version="18.2.0" last-modified="1652793710000" />
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/var/folders/lx/n5r27kz50h7frl561110yk_0gpmq08/T/fnm_multishell_1845_1652945665271/bin/node">
+      <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="/var/folders/lx/n5r27kz50h7frl561110yk_0gpmq08/T/fnm_multishell_73023_1623832168273/bin/node">
       <version-cache last-modified="0" />
@@ -9,14 +12,26 @@
     <local-interpreter path="/var/folders/lx/n5r27kz50h7frl561110yk_0gpmq08/T/fnm_multishell_93718_1641803990899/bin/node">
       <version-cache last-modified="0" />
     </local-interpreter>
-    <local-interpreter path="/usr/local/Cellar/node/18.2.0/bin/node">
-      <version-cache version="18.2.0" last-modified="1653034876366" />
+    <local-interpreter path="/usr/local/Cellar/node/18.9.0/bin/node">
+      <version-cache version="18.9.0" last-modified="1663163503146" />
     </local-interpreter>
     <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="18.2.0" last-modified="1653034876366" />
+      <version-cache version="18.9.0" last-modified="1663163503146" />
     </local-interpreter>
-    <local-interpreter path="/var/folders/lx/n5r27kz50h7frl561110yk_0gpmq08/T/fnm_multishell_1845_1652945665271/bin/node">
-      <version-cache version="18.2.0" last-modified="1652793710000" />
+    <local-interpreter path="/usr/local/Cellar/node/18.7.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/var/folders/lx/n5r27kz50h7frl561110yk_0gpmq08/T/fnm_multishell_10872_1662468534385/bin/node">
+      <version-cache version="18.7.0" last-modified="1658846271000" />
+    </local-interpreter>
+    <local-interpreter path="/var/folders/lx/n5r27kz50h7frl561110yk_0gpmq08/T/fnm_multishell_48199_1661937121253/bin/node">
+      <version-cache version="18.7.0" last-modified="1658846271000" />
+    </local-interpreter>
+    <local-interpreter path="/var/folders/lx/n5r27kz50h7frl561110yk_0gpmq08/T/fnm_multishell_96634_1661853040902/bin/node">
+      <version-cache version="18.7.0" last-modified="1658846271000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/18.2.0/bin/node">
+      <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/17.3.0/bin/node">
       <version-cache last-modified="0" />
