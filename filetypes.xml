@@ -24,6 +24,7 @@
       <mapping ext="translations" type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
       <mapping ext="adf" type="PLAIN_TEXT" />
+      <mapping ext="logs" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="flat" type="PLAIN_TEXT" />
