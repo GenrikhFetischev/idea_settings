@@ -14,6 +14,7 @@
       <mapping pattern=".prettierignore" type="IgnoreLang file" />
       <mapping pattern=".auto-changelog" type="JSON" />
       <mapping pattern=".postcssrc" type="JSON" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -27,6 +28,7 @@
       <mapping ext="translations" type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
       <mapping ext="adf" type="PLAIN_TEXT" />
+      <mapping ext="logs" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="flat" type="PLAIN_TEXT" />
