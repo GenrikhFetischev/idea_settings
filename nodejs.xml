@@ -24,6 +24,9 @@
     <local-interpreter path="/var/folders/lx/n5r27kz50h7frl561110yk_0gpmq08/T/fnm_multishell_96634_1661853040902/bin/node">
       <version-cache last-modified="0" />
     </local-interpreter>
+    <local-interpreter path="$USER_HOME$/Library/Caches/fnm_multishells/837_1666091343601/bin/node">
+      <version-cache version="18.10.0" last-modified="1664377356000" />
+    </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/18.9.0/bin/node">
       <version-cache last-modified="0" />
     </local-interpreter>
