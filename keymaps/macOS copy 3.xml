@@ -1,0 +1,20 @@
+<keymap version="1" name="macOS copy 3" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
+  <action id="ChangesView.Move" />
+  <action id="Console.TableResult.SelectRow" />
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="NewScratchFile" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift meta 0" />
+  </action>
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="shift meta alt l" />
+    <keyboard-shortcut first-keystroke="shift space" />
+  </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
+</keymap>
