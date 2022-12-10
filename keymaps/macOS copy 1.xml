@@ -23,6 +23,7 @@
   <action id="IlluminatedCloud.SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="JumpToLastWindow" />
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="meta h" />
   </action>
