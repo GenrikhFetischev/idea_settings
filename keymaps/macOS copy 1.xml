@@ -1,13 +1,15 @@
 <keymap version="1" name="macOS copy 1" parent="Mac OS X 10.5+">
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="alt t" />
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
   <action id="Cargo.RustfmtFile">
     <keyboard-shortcut first-keystroke="shift meta alt semicolon" />
   </action>
   <action id="Console.TableResult.SelectRow" />
+  <action id="EditorMatchBrace">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+    <keyboard-shortcut first-keystroke="meta alt m" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="alt w" />
@@ -16,6 +18,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl p" />
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="ExtractFunction" />
+  <action id="ExtractMethod" />
   <action id="IlluminatedCloud.SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
