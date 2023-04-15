@@ -101,6 +101,11 @@
           <nt-symbol-settings />
         </configuration>
       </debugger>
+      <debugger id="Rust">
+        <configuration>
+          <option name="lldbPath" value="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2023.1/intellij-rust/lldb" />
+        </configuration>
+      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
