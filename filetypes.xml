@@ -27,6 +27,7 @@
       <mapping ext="adf" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="symdef sorted" type="PLAIN_TEXT" />
       <mapping ext="translations" type="PLAIN_TEXT" />
       <mapping ext="flat" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
