@@ -1,0 +1,55 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_METHODS" value="true" />
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+    <option name="BIDI_TEXT_DIRECTION" value="LTR" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="docker.inlay.hints" />
+  </component>
+  <component name="JSCodeFoldingSettings">
+    <option name="collapseArrayLiterals" value="true" />
+    <option name="collapseObjectLiterals" value="true" />
+    <option name="collapseOneLineFunctions" value="true" />
+    <option name="collapseXmlLiterals" value="true" />
+    <option name="COLLAPSE_OBJECT_LITERALS" value="true" />
+    <option name="COLLAPSE_ARRAY_LITERALS" value="true" />
+    <option name="COLLAPSE_XML_LITERALS" value="true" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseAccessors" value="true" />
+    <option name="collapseAnnotations" value="true" />
+    <option name="collapseAnonymousClasses" value="true" />
+    <option name="collapseEndOfLineComments" value="true" />
+    <option name="collapseInnerClasses" value="true" />
+    <option name="collapseMultilineComments" value="true" />
+    <option name="replaceVarWithInferredType" value="true" />
+  </component>
+  <component name="PropertiesFoldingSettings">
+    <option name="foldPlaceholdersToContext" value="true" />
+  </component>
+  <component name="PythonFoldingSettings">
+    <option name="COLLAPSE_LONG_STRINGS" value="true" />
+    <option name="COLLAPSE_LONG_COLLECTIONS" value="true" />
+    <option name="COLLAPSE_SEQUENTIAL_COMMENTS" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_XML_TAGS" value="true" />
+  </component>
+</application>
