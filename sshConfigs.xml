@@ -2,7 +2,6 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="OPEN_SSH" host="80.211.250.106" id="1dd0c209-6f7f-4ed9-96a9-363506f29f01" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
-      <sshConfig host="ec2-3-127-217-127.eu-central-1.compute.amazonaws.com" id="3362a57d-f140-4095-a1e6-89df6575cd0e" keyPath="$USER_HOME$/Projects/dev-server.pem" port="22" nameFormat="DESCRIPTIVE" username="admin" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
