@@ -5,7 +5,15 @@
   <action id="Cargo.RustfmtFile">
     <keyboard-shortcut first-keystroke="shift meta alt semicolon" />
   </action>
+  <action id="Console.Execute" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="Console.TableResult.SelectRow" />
+  <action id="DirDiffMenu.SynchronizeDiff" />
+  <action id="EditorChooseLookupItem" />
+  <action id="EditorEnter" />
   <action id="EditorMatchBrace">
     <keyboard-shortcut first-keystroke="ctrl m" />
     <keyboard-shortcut first-keystroke="meta alt m" />
@@ -20,9 +28,13 @@
   </action>
   <action id="ExtractFunction" />
   <action id="ExtractMethod" />
+  <action id="Git.Log.Branches.Change.Branch.Filter">
+    <mouse-shortcut keystroke="button1 doubleClick" />
+  </action>
   <action id="IlluminatedCloud.SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="Images.Thumbnails.EnterAction" />
   <action id="JumpToLastWindow" />
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="meta h" />
@@ -43,6 +55,9 @@
     <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="meta alt back_slash" />
   </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="shift space" />
@@ -59,6 +74,7 @@
     <keyboard-shortcut first-keystroke="shift meta alt l" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
   </action>
+  <action id="SplitChooser.Split" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
