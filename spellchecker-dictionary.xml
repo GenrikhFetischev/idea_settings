@@ -12,6 +12,7 @@
       <w>libuwebsockets</w>
       <w>overprovisioning</w>
       <w>repocn</w>
+      <w>signalfx</w>
       <w>tungstenite</w>
       <w>uwebsockets</w>
       <w>vendored</w>
