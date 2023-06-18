@@ -6,6 +6,7 @@
       <w>ccbackend</w>
       <w>ccbe</w>
       <w>ccmod</w>
+      <w>deinit</w>
       <w>flatrpc</w>
       <w>istio</w>
       <w>libusockets</w>
