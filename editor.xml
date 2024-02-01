@@ -25,6 +25,8 @@
     <option name="providerIdToEnabled">
       <map>
         <entry key="cargo.inlay.version.hints" value="true" />
+        <entry key="java.implicit.types" value="false" />
+        <entry key="java.method.chains" value="true" />
         <entry key="js.chain.hints" value="true" />
         <entry key="js.type.hints" value="true" />
         <entry key="qodana.yaml.inspection.descriptions" value="true" />
