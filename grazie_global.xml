@@ -9,11 +9,11 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="server is allowed" />
-            <option value="message is being sent" />
+            <option value="b3dws" />
             <option value="events are represented" />
             <option value="it is expected that" />
-            <option value="b3dws" />
+            <option value="message is being sent" />
+            <option value="server is allowed" />
           </set>
         </option>
       </SuppressingContext>

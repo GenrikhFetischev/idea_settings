@@ -77,10 +77,6 @@
     <option name="COLLAPSE_LONG_COLLECTIONS" value="true" />
     <option name="COLLAPSE_SEQUENTIAL_COMMENTS" value="true" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-  </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_XML_TAGS" value="true" />
   </component>
