@@ -9,5 +9,6 @@
     <entry key="org.toml.json.schema" value="false" source="SYSTEM" />
     <entry key="editor.distraction.free.mode" value="true" source="SYSTEM" />
     <entry key="debugger.attach.dialog.enabled" value="true" source="SYSTEM" />
+    <entry key="terminal.new.ui.show.promotion" value="true" source="SYSTEM" />
   </component>
 </application>
